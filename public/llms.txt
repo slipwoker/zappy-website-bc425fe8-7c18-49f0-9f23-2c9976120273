@@ -1,0 +1,55 @@
+# יפית פינטו — Generative Engine Optimization Map
+
+> A אומנות וקרמיקה business.
+
+---
+
+## Pages
+
+### בית
+https://-bc425fe8.zappy5.app
+
+### אודות
+https://-bc425fe8.zappy5.app/about
+
+### גלריה
+https://-bc425fe8.zappy5.app/gallery
+
+### צור קשר
+https://-bc425fe8.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-bc425fe8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-bc425fe8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-bc425fe8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יפית פינטו
+יפית פינטו is a business in the אומנות וקרמיקה industry.
+
+## Target Audience
+- אספני אמנות
+- חובבי אמנות
+- מוסדות חינוך לאמנות
+
+## Industry
+אומנות וקרמיקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-bc425fe8.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-bc425fe8.zappy5.app/robots.txt
